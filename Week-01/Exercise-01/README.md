@@ -34,9 +34,19 @@ The system identifies if that space was reserved for him, if it was, the system 
 releasing the space. Otherwise, the barrier is not opened.
 
 
+## Hardware Block Diagram for terminal 1
+
+![Screenshot](HwBlockDiagram01.png)
+
+
 ## Software Block Diagram for terminal 1
 
 ![Screenshot](SmartParkingLotT1.png)
+
+
+## Hardware Block Diagram for terminal 2
+
+![Screenshot](HwBlockDiagram02.png)
 
 
 ## Software Block Diagram for terminal 2
