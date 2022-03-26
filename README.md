@@ -1,4 +1,4 @@
-# MakingEmbeddedSystems
+# Making Embedded Systems
 This repository contains exercises and projects from the course Making Embedded Systems by Elicia White.
 
 Cohort Name: Orange Stars
